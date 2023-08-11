@@ -1,7 +1,6 @@
 package com.company.restaurantemployeeservice.security;
 
 import com.company.restaurantemployeeservice.entity.Employee;
-import com.company.restaurantemployeeservice.exception.EmployeeNotFoundException;
 import com.company.restaurantemployeeservice.repository.EmployeeRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
